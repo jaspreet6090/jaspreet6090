@@ -1,4 +1,4 @@
-<img> alt:Jaspreet Singh.png</img>
+<img> src:"JASPREET SINGH.png"</img>
 
 ### Hi there 👋
 
