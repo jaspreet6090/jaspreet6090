@@ -1,7 +1,7 @@
 <img src="JASPREET SINGH.png" >
 
 ### Hi there 👋
-
+[![An image of @jaspreet6090's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaspreet6090)](https://holopin.io/@jaspreet6090)
 <!--
 **jaspreet6090/jaspreet6090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
