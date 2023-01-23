@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development | Data Structures and Algorithms**
 - Btech(IT) Student From GGSIPU 
 - I'm passionate Full Stack Web Developer  from New Delhi <br>
-A Meticulous and organized individual seeking an Entry-level position in the field of Full—Stack Web Developer. Skilled at making static Websites using HTML, CSS, JS, BOOTSTRAP, and FIGMA. Strong ability to handle complex projects. Innovative, creative, fast learner, and willing to contribute ideas and learn new things.
+A Meticulous and organized individual seeking an Entry-level position in the field of Full—Stack Web Developer. Skilled at making static Websites using HTML, CSS, JS, BOOTSTRAP, and FIGMA And Data Structures and Algorithms at same. Strong ability to handle complex projects. Innovative, creative, fast learner, and willing to contribute ideas and learn new things.
 
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/jaspreet6090](https://linktr.ee/jaspreet6090)
