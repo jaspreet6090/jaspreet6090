@@ -8,6 +8,7 @@ A Meticulous and organized individual seeking an Entry-level position in the fie
 - 👨‍💻 All of my projects are available at [https://linktr.ee/jaspreet6090](https://linktr.ee/jaspreet6090)
 
 - 📫 How to reach me **jaspreetsingh6090@gmail.com**
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaspreet6090&label=Profile%20views&color=0e75b6&style=flat" alt="jaspreet6090" /> </p>
  [![An image of @jaspreet6090's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaspreet6090)](https://holopin.io/@jaspreet6090)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
