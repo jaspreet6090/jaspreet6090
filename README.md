@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jaspreet Singh</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h1 align="center">Hi there👋, I'm Jaspreet Singh</h1>
+<h3 align="center">Web Devloper, UI/UX Designer & Graphic Designer</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development | Data Structures and Algorithms**
-- Btech(IT) Student From GGSIPU 
-- I'm passionate Full Stack Web Developer  from New Delhi <br>
-A Meticulous and organized individual seeking an Entry-level position in the field of Full—Stack Web Developer. Skilled at making static Websites using HTML, CSS, JS, BOOTSTRAP, and FIGMA And Data Structures and Algorithms at same. Strong ability to handle complex projects. Innovative, creative, fast learner, and willing to contribute ideas and learn new things.
+- 🌱 I’m currently learning **Full Stack Web Development | Data Structures and Algorithms** <br>
+
+- Motivated and dedicated Btech(IT) student from Guru Tegh Bahadur Institute of Technology (GGSIPU), <br>
+ 
+actively seeking an entry-level position as a UI/UX Designer, Graphic Designer and a Full Stack Web Developer. Proficient in HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, NODEJS, EXPRESSJS, REACTJS, GIT/GITHUB , FIGMA, ADOBE SUITE and CANVA, I possess strong problem-solving abilities and a passion for innovation. With valuable experience as a Designer at GDSC GTBIT, I am ready to contribute to impactful web development projects.
+<be>
+
+I love my work and enjoy each new project as I get it. Feel free to have a look at my portfolio and don’t hesitate to contact me if you think I can be of service to you.
+<be>
+
+Thanks for stopping by!
 - 👨‍💻 All of my projects are available at [https://linktr.ee/jaspreet6090](https://linktr.ee/jaspreet6090)
 
 - 📫 How to reach me **jaspreetsingh6090@gmail.com**
