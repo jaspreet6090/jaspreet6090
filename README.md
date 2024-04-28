@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Jaspreet Singh</h1>
-<h3 align="center">Web Devloper, UI/UX Designer & Graphic Designer</h3>
+<h3 align="center">Full Stack Web Devloper, UI/UX Designer & Graphic Designer</h3>
 
 
 # 💫 About Me:
