@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on full-stack projects.<br>👯 I’m looking to collaborate on Web Apps.<br>🌱 I’m currently learning New Technologies<br>💬 Ask me about Java, MERN<br>⚡ Fun fact  - Love Play Games
+🔭 I’m currently working on full-stack projects.<br>👯 I’m looking to collaborate on Web Apps.<br>🌱 I’m currently learning New Technologies<br>💬 Ask me about Java, MERN<br>⚡ Fun fact  - Love To Play Games
 
 I love my work and enjoy each new project as I get it. Feel free to have a look at my portfolio and don’t hesitate to contact me if you think I can be of service to you.
 <be>
