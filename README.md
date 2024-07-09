@@ -8,7 +8,7 @@
 I love my work and enjoy each new project as I get it. Feel free to have a look at my portfolio and don’t hesitate to contact me if you think I can be of service to you.
 <be>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/jaspreet6090](https://linktr.ee/jaspreet6090)
+- 👨‍💻 All of my Links are available at [https://linktr.ee/jaspreet6090](https://linktr.ee/jaspreet6090)
 
 - 📫 How to reach me **jaspreetsingh6090@gmail.com**
 
