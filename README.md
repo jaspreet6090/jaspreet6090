@@ -1,7 +1,9 @@
 <h1 align="center">Hi there👋, I'm Jaspreet Singh</h1>
 <h3 align="center">Full Stack Web Devloper, UI/UX Designer & Graphic Designer</h3>
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=jaspreet6090&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 # 💫 About Me:
 🔭 I’m currently working on full-stack projects.<br>👯 I’m looking to collaborate on Web Apps.<br>🌱 I’m currently learning New Technologies<br>💬 Ask me about Java, MERN<br>⚡ Fun fact  - Love To Play Games
 
@@ -30,8 +32,7 @@ I love my work and enjoy each new project as I get it. Feel free to have a look 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=jaspreet6090&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
